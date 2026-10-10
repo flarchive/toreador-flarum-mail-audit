@@ -2,14 +2,13 @@
 
 > **Read-only archive of released versions of toreador/flarum-mail-audit.** Not for installation: use [Packagist](https://packagist.org/packages/toreador/flarum-mail-audit) or the [upstream repository](https://github.com/toreador34/flarum-mail-audit).
 
-**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/toreador-flarum-mail-audit/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.2.0`
+**0** versions archived · Latest: [`v2.0.0`](https://github.com/flarchive/toreador-flarum-mail-audit/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `v1.0.0` | 2026-10-09 | `^1.2.0` | [Browse](https://github.com/flarchive/toreador-flarum-mail-audit/tree/archive/v1.0.0) |
-| `v1.0.1` | 2026-10-09 | `^1.2.0` | [Browse](https://github.com/flarchive/toreador-flarum-mail-audit/tree/archive/v1.0.1) |
+| — | — | — | — |
 
 Catalog entry: [packages/toreador-flarum-mail-audit.json](https://github.com/flarchive/archive-index/blob/main/packages/toreador-flarum-mail-audit.json)
 
